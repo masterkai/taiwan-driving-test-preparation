@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f7f2"/>
+  <text x="60" y="70" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="38" font-weight="700" fill="#222">道路交通標線一覽表</text>
+  <rect x="70" y="125" width="1060" height="565" rx="16" fill="#fff" stroke="#ddd"/>
+  <text x="110" y="180" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#222">標線</text>
+  <text x="420" y="180" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#222">圖像記憶</text>
+  <text x="720" y="180" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#222">考試判斷</text>
+  <line x1="70" y1="210" x2="1130" y2="210" stroke="#ddd" stroke-width="4"/>
+  <line x1="70" y1="310" x2="1130" y2="310" stroke="#ddd" stroke-width="3"/>
+  <line x1="70" y1="410" x2="1130" y2="410" stroke="#ddd" stroke-width="3"/>
+  <line x1="70" y1="510" x2="1130" y2="510" stroke="#ddd" stroke-width="3"/>
+  <line x1="70" y1="610" x2="1130" y2="610" stroke="#ddd" stroke-width="3"/>
+  <text x="110" y="270" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">白虛線</text>
+  <line x1="420" y1="260" x2="650" y2="260" stroke="#444" stroke-width="12" stroke-dasharray="35 24"/>
+  <text x="720" y="270" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">安全時可跨越、變換車道</text>
+  <text x="110" y="370" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">白實線</text>
+  <line x1="420" y1="360" x2="650" y2="360" stroke="#444" stroke-width="12"/>
+  <text x="720" y="370" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">原則不得任意跨越</text>
+  <text x="110" y="470" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">雙白實線</text>
+  <line x1="420" y1="453" x2="650" y2="453" stroke="#444" stroke-width="9"/>
+  <line x1="420" y1="473" x2="650" y2="473" stroke="#444" stroke-width="9"/>
+  <text x="720" y="470" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">禁止跨越、禁止變換車道</text>
+  <text x="110" y="570" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">斑馬線</text>
+  <g transform="translate(420 535)">
+    <rect width="230" height="45" fill="#666"/>
+    <line x1="10" y1="0" x2="10" y2="45" stroke="#fff" stroke-width="10"/>
+    <line x1="45" y1="0" x2="45" y2="45" stroke="#fff" stroke-width="10"/>
+    <line x1="80" y1="0" x2="80" y2="45" stroke="#fff" stroke-width="10"/>
+    <line x1="115" y1="0" x2="115" y2="45" stroke="#fff" stroke-width="10"/>
+    <line x1="150" y1="0" x2="150" y2="45" stroke="#fff" stroke-width="10"/>
+    <line x1="185" y1="0" x2="185" y2="45" stroke="#fff" stroke-width="10"/>
+  </g>
+  <text x="720" y="570" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">行人優先，車輛應減速禮讓</text>
+  <text x="110" y="660" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">紅黃路邊線</text>
+  <line x1="420" y1="650" x2="535" y2="650" stroke="#d71920" stroke-width="14"/>
+  <line x1="545" y1="650" x2="650" y2="650" stroke="#ffca28" stroke-width="14"/>
+  <text x="720" y="660" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">辨識禁止臨停或禁止停車</text>
+</svg>

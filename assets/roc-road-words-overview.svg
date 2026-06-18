@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f7f2"/>
+  <text x="60" y="70" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="38" font-weight="700" fill="#222">中華民國道路交通標字：路面文字速記</text>
+  <text x="60" y="112" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="20" fill="#555">標字是標線的一部分，直接告訴你車道用途、停讓位置或注意事項。</text>
+  <rect x="90" y="150" width="260" height="520" rx="10" fill="#4c4c4c"/>
+  <line x1="220" y1="165" x2="220" y2="655" stroke="#fff" stroke-width="8" stroke-dasharray="42 30"/>
+  <text x="130" y="295" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="54" font-weight="700" fill="#fff" writing-mode="tb">慢</text>
+  <text x="250" y="295" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="54" font-weight="700" fill="#fff" writing-mode="tb">行</text>
+  <rect x="470" y="150" width="260" height="520" rx="10" fill="#4c4c4c"/>
+  <path d="M600 610 V260 M600 260 L540 335 M600 260 L660 335" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="535" y="235" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="42" font-weight="700" fill="#fff">直行</text>
+  <rect x="850" y="150" width="260" height="520" rx="10" fill="#4c4c4c"/>
+  <line x1="890" y1="275" x2="1070" y2="275" stroke="#fff" stroke-width="14"/>
+  <text x="910" y="245" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="42" font-weight="700" fill="#fff">停止線</text>
+  <text x="894" y="370" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="66" font-weight="700" fill="#fff">停</text>
+  <text x="982" y="370" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="66" font-weight="700" fill="#fff">止</text>
+  <text x="100" y="720" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">常考：慢、停、讓、專用車道、轉向箭頭、速限數字。文字和箭頭衝突時，要合併標誌與號誌判斷。</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f7f2"/>
+  <text x="60" y="70" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="38" font-weight="700" fill="#222">中華民國道路交通號誌燈：必考判斷</text>
+  <rect x="110" y="145" width="190" height="450" rx="32" fill="#222"/>
+  <circle cx="205" cy="245" r="60" fill="#d71920"/>
+  <circle cx="205" cy="370" r="60" fill="#ffca28"/>
+  <circle cx="205" cy="495" r="60" fill="#13a538"/>
+  <text x="360" y="235" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="30" font-weight="700" fill="#222">紅燈：停止，不得越過停止線</text>
+  <text x="360" y="305" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="30" font-weight="700" fill="#222">黃燈：能安全停就停，太近才續行</text>
+  <text x="360" y="375" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="30" font-weight="700" fill="#222">綠燈：可通行，但仍須禮讓與淨空</text>
+  <rect x="360" y="445" width="260" height="110" rx="18" fill="#111"/>
+  <path d="M490 520 V475 M490 475 L455 510 M490 475 L525 510" stroke="#15c24a" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="492" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="30" font-weight="700" fill="#222">綠箭頭：只依箭頭方向通行</text>
+  <text x="660" y="540" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#444">箭頭方向以外，不可自行推論。</text>
+  <rect x="110" y="635" width="980" height="70" rx="14" fill="#fff" stroke="#ddd"/>
+  <text x="145" y="680" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">閃紅燈：停車再開。閃黃燈：減速注意。警察指揮優先於號誌。</text>
+</svg>

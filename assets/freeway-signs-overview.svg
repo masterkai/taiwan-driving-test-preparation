@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f7f2"/>
+  <text x="60" y="70" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="38" font-weight="700" fill="#222">高(快)速公路交通標誌：閱讀順序</text>
+  <rect x="80" y="145" width="460" height="190" rx="16" fill="#007a3d"/>
+  <text x="115" y="205" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="42" font-weight="700" fill="#fff">出口 25</text>
+  <text x="115" y="270" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="54" font-weight="700" fill="#fff">台中 Taichung</text>
+  <path d="M450 175 L500 240 L450 305" stroke="#fff" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="660" y="145" width="210" height="190" rx="18" fill="#fff" stroke="#111" stroke-width="8"/>
+  <text x="710" y="225" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="34" font-weight="700" fill="#111">最高</text>
+  <text x="700" y="295" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="70" font-weight="700" fill="#111">100</text>
+  <rect x="930" y="145" width="190" height="190" rx="18" fill="#fff" stroke="#111" stroke-width="8"/>
+  <text x="975" y="225" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="34" font-weight="700" fill="#111">最低</text>
+  <text x="982" y="295" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="70" font-weight="700" fill="#111">60</text>
+  <rect x="80" y="405" width="1040" height="220" rx="16" fill="#fff" stroke="#ddd"/>
+  <text x="120" y="455" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="28" font-weight="700" fill="#222">常考重點</text>
+  <text x="120" y="505" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#333">1. 綠底白字多為方向、地名、出口、里程。</text>
+  <text x="120" y="550" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#333">2. 速限標誌同時看最高與最低；慢車、故障車不得占用車道。</text>
+  <text x="120" y="595" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#333">3. 出口預告要提早換到適當車道，禁止臨時急切、倒車或迴轉。</text>
+</svg>

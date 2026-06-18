@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f7f2"/>
+  <text x="60" y="70" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="38" font-weight="700" fill="#222">中華民國道路交通標線：線型速記</text>
+  <text x="60" y="112" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="20" fill="#555">標線考題多問「可不可以跨越、變換車道、停車」。</text>
+  <rect x="70" y="160" width="1060" height="470" rx="16" fill="#4c4c4c"/>
+  <line x1="110" y1="245" x2="1090" y2="245" stroke="#fff" stroke-width="12" stroke-dasharray="58 42"/>
+  <text x="110" y="220" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#fff">白虛線：安全時可變換車道</text>
+  <line x1="110" y1="355" x2="1090" y2="355" stroke="#fff" stroke-width="12"/>
+  <text x="110" y="330" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#fff">白實線：原則不得任意跨越</text>
+  <line x1="110" y1="465" x2="1090" y2="465" stroke="#ffd21e" stroke-width="12"/>
+  <text x="110" y="440" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#fff">黃實線：分向限制或路邊禁停語境</text>
+  <line x1="110" y1="575" x2="1090" y2="575" stroke="#e4002b" stroke-width="14"/>
+  <text x="110" y="550" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="26" font-weight="700" fill="#fff">紅實線：禁止臨時停車</text>
+  <rect x="80" y="655" width="1040" height="60" rx="12" fill="#fff"/>
+  <text x="110" y="693" font-family="Arial, 'Microsoft JhengHei', sans-serif" font-size="24" fill="#222">白色多管同向車道；黃色多管對向分隔；紅黃路邊線要記停車限制。</text>
+</svg>
